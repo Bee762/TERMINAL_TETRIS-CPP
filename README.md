@@ -21,6 +21,9 @@ This project was built to practice c++ fundamentalls , game loops ,input handeli
 ~ colours using ansi escape codes
 and many more :)
 
+## Controls :
+controls are detailed in the game rulebook,read it before playing
+
 ## Technologies used :
 ~ c++
 ~ standard library
