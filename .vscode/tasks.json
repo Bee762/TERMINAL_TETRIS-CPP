@@ -1,0 +1,48 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "BUILD WITH GCC 14.02",
+			"command": "C:\\Users\\mine1\\Downloads\\cpp compiler\\mingw64\\bin\\g++.exe",
+			"args": [
+             "-std=c++23",
+             "${workspaceFolder}\\*.cpp",
+             "-static",
+             "-static-libgcc",
+             "-static-libstdc++",
+             "-pthread",
+              "-o",
+             "${workspaceFolder}\\bee.exe"
+             ],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: C:\\Users\\mine1\\Downloads\\cpp compiler\\mingw64\\bin\\g++.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "BUILD WITH CLANG++",
+			"command": "C:\\Users\\mine1\\Downloads\\cpp compiler\\mingw64\\bin\\clang++.exe",
+			"args": [
+				"-g",
+				"-std=c++23",
+				"${workspaceFolder}\\*.cpp",
+				"-o",
+				"${fileDirname}\\bee.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: C:\\Users\\mine1\\Downloads\\cpp compiler\\mingw64\\bin\\clang++.exe"
+		}
+	]
+}
