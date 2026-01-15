@@ -1,4 +1,4 @@
-#TERMINAL TETRIS (C++)
+## TERMINAL TETRIS (C++)
 
 A terminal based tetris game written on c++ using console rendering.
 This project was built to practice c++ fundamentals , game loops ,input handling, and basic game logic
