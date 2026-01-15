@@ -29,6 +29,12 @@ controls are detailed in the game rulebook,read it before playing
 ~ standard library
 ~ windows console APis (for input)
 
+## Demo Screenshot : 
+
+<img width="383" height="685" alt="C__C++ PROJECTS LOCAL SAVES_TERMINAL TETRIS (MADE BY BEE) SOURCE CODE_bee exe 15-01-2026 18_54_06" src="https://github.com/user-attachments/assets/48a266bf-8f99-4934-a32a-139e718d8c22" />
+
+<img width="380" height="719" alt="C__C++ PROJECTS LOCAL SAVES_TERMINAL TETRIS (MADE BY BEE) SOURCE CODE_bee exe 15-01-2026 18_54_32" src="https://github.com/user-attachments/assets/f553a9c6-5b34-4b28-8243-1a7a9cf5791b" />
+
 ## How to compile and run : 
 using g++ (minGW / GCC)
 ```bash
